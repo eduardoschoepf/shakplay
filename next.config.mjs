@@ -137,8 +137,8 @@ const nextConfig = {
   
   // Configurações para GitHub Pages:
   output: 'export',
-  basePath: '/ShakPlay',
-  assetPrefix: '/ShakPlay/',
+  basePath: '/shakplay',
+  assetPrefix: '/shakplay/',
   
   // Compression
   compress: true,
