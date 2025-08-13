@@ -1,1 +1,0 @@
-self.__BUILD_MANIFEST=function(e){return{__rewrites:{afterFiles:[{has:void 0,source:e,destination:e}],beforeFiles:[],fallback:[]},"/_error":["static/chunks/pages/_error-81eb3eded0f6baff.js"],sortedPages:["/_app","/_error"]}}("/shakplay/api/health"),self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();
